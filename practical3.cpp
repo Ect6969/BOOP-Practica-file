@@ -7,6 +7,6 @@ int main(){
   cout<<"Enter number for n2 = ";
   cin>>n2;
   sum=n1+n2;
-  cout<<"Sum is equal to "<</t sum<<endl;
+  cout<<"Sum is equal to "<< sum<<endl;
   return 0;
 }
